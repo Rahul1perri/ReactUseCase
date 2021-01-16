@@ -3,10 +3,26 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-
+import { BrowserRouter, Route, Switch } from 'react-router-dom';
+import UserSignUp from './Components/UserSignUp'
+import MemberHome from './Components/MemberHome';
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+     <BrowserRouter>
+
+<div>
+
+            <Switch>
+            <Route path="/" exact component={App}/>
+             <Route path="/UserSignUp" exact component={UserSignUp}/>
+             <Route path="/MemberHome" exact component={MemberHome}/>
+
+           </Switch>
+        </div> 
+
+
+</BrowserRouter>
+    
   </React.StrictMode>,
   document.getElementById('root')
 );

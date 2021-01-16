@@ -1,0 +1,44 @@
+{
+  "Admin": [
+    {
+      "id": 1,
+      "userName": "perrirahul@gmail.com",
+      "password": "gamepuma"
+    },
+    {
+      "id": 2,
+      "userName": "perrirahul@gmail.com",
+      "password": "gamepuma"
+    }
+  ],
+  "RegisteredUsers": [
+    {
+      "id": 1,
+      "userName": "perri@gmail.com",
+      "password": "fullclip"
+    },
+    {
+      "userName": "rocky@gmail.com",
+      "password": "salaar",
+      "id": 2
+    },
+    {
+      "userName": "salaar@gmail.com",
+      "password": "rocky",
+      "id": 3
+    },
+    {
+      "userName": "Rahul",
+      "password": "gamepuma",
+      "id": 4
+    },
+    {
+      "userName": "tharunteja",
+      "password": "sc",
+      "id": 5
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

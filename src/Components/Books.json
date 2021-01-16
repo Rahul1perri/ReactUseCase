@@ -1,0 +1,46 @@
+[{
+    "SerialId": 1,
+    "BookName": "The Lord of the Rings",
+    "Author": "J.R.R Tolkien",
+    "Genre": "Fantasy",
+    "ShelfNumber": 200
+
+
+}, {
+    "SerialId": 2,
+    "BookName": "Angels and Demons",
+    "Author": "Dan Brown",
+    "Genre": "Mystery-Thriller",
+    "ShelfNumber": 201
+
+}, {
+    "SerialId": 3,
+    "BookName": "Hardy Boys",
+    "Author": "Franklin W Dixon",
+    "Genre": "Fantasy",
+    "ShelfNumber": 202
+}, {
+    "SerialId": 4,
+    "BookName": "Harry Potter and the Chamber of Secrets",
+    "Author": "J.K Rowling",
+    "Genre": "Fantasy",
+    "ShelfNumber": 203
+}, {
+    "SerialId": 5,
+    "BookName": "A Song of Ice and Fire",
+    "Author": "George R R Martin",
+    "Genre": "Fantasy",
+    "ShelfNumber": 204
+}, {
+    "SerialId": 6,
+    "BookName": "Heroes of Olympus:House of Hades",
+    "Author": "Rick Riordan",
+    "Genre": "Fantasy",
+    "ShelfNumber": 205
+}, {
+    "SerialId": 7,
+    "BookName": "The Adventures of Sherlock Holmes",
+    "Author": "Arthur Conan Doyle",
+    "Genre": "Detective fiction",
+    "ShelfNumber": 206
+}]
